@@ -7,7 +7,7 @@
   "npmClient": "yarn",
   "command":{
     "version": {
-      "allowBranch": ["beta/*"]
+      "allowBranch": ["master","beta/*"]
    }
   }
 }
