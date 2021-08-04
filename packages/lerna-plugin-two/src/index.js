@@ -1,1 +1,1 @@
-console.log(__dirname + 'changesss')
+console.log(__dirname)
