@@ -1,6 +1,6 @@
 {
   "name": "lerna-plugin-two",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "第二个测试包",
   "keywords": [
     "第二个测试包"
@@ -25,7 +25,7 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
-    "start":"node src/index.js"
+    "start": "node src/index.js"
   },
   "bugs": {
     "url": "https://github.com/517725252/leran/issues"
