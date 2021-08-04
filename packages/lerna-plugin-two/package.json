@@ -1,0 +1,33 @@
+{
+  "name": "lerna-plugin-two",
+  "version": "0.0.0",
+  "description": "第二个测试包",
+  "keywords": [
+    "第二个测试包"
+  ],
+  "author": "yangjingbo <yangjingbo@huohua.cn>",
+  "homepage": "https://github.com/517725252/leran#readme",
+  "license": "ISC",
+  "main": "lib/lerna-plugin-two.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/517725252/leran.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "start":"node src/index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/517725252/leran/issues"
+  }
+}
