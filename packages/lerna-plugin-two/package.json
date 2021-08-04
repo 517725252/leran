@@ -1,6 +1,6 @@
 {
   "name": "lerna-plugin-two",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "第二个测试包",
   "keywords": [
     "第二个测试包"
